@@ -2,14 +2,38 @@
     border: solid 3px green;
     height: 80vh;
     width: 80vw;
-    background-color: lightblue;
+    background-color: yellow;
     margin: auto;
     display: flex;
     justify-content: center;
-    align-items: center;
+   text-align: center;
     gap: 20px;
+    background-image: url(https://wallpapercrafter.com/desktop2/836871-brazil-christ-cities-cristo-hills-janeiro-jesus.jpg);
 }
 .brasilimg{
-    height: 40vh;
-    width: 50vh;
+    height: 30vh;
+    width: 30vh;
 }
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-image: url(https://i.pinimg.com/originals/b1/1f/70/b11f7039b513556886b426b7da96a32c.gif);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(https://www.a12.com/source/files/originals/bandeira_do_brasil_2.jpg);
+}
+iframe{
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
